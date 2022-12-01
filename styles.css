@@ -1,0 +1,19 @@
+h1, h6{
+    color:red;
+    font-size: 20px;
+    background-color: black;
+    font-family: cursive;
+}
+h4{
+    color: gold;
+    background-color: lightblue;
+    text-align: right;
+    font-family: courier;
+    font-size: 45px
+}
+/*we can create our own style class*/
+.my-style{
+    color:purple;
+    text-align: center;
+    background-color: aqua;
+}
