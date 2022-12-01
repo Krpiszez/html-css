@@ -1,0 +1,28 @@
+Day 01 Review:
+HTML:
+-Mark-up language
+-Use html tags to create elements
+   -h1-h6 -> header
+   -p -> paragraph
+   -Opening : <h1>
+   -Closing : </h1>
+   -Example: <h1>  My Webpage </h1>
+-CSS: Cascading Style Sheet
+-It is used for add style such as color, width, height, spacings, ...
+-3 ways to use CSS
+   -1.Inline : <h1 style="color: red" > My Webpage </h1>
+   -2.Internal: By using style tag in the same HTML file
+   <style>
+       h1{
+         color: red
+        }
+    </style>
+    3.External: By creating an external CSS sheet.
+                In styles.css, we can use css files without using <style> keyword
+                h1{
+                   color: red
+                   }
+NOTE: 1.external styling is preferred since it makes the code clean
+      2.We shoudl not use tags for styling. Class is the most common way for styling
+      -Class is used for styling for multiple elements.Class can repeat. "." means class
+      -Id is used for styling unique elements. "#" means id in html
