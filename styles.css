@@ -17,3 +17,28 @@ h4{
     text-align: center;
     background-color: aqua;
 }
+
+#my-unique-id{
+
+    color:gold;
+    background-color: beige;
+    
+
+}
+
+.img1{
+
+width: 200px;
+height: 140px;
+border: 5px solid red;
+margin: 10px;       /* margin is the space around if u type just margin it will leave space from every direction or u can use up down ... */
+}
+
+.img2{
+
+width: 200px;
+height: 150px;
+border: 5px dashed green;
+padding: 10px; /* padding is the space between border line and borders of image */
+
+}
