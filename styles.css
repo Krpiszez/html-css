@@ -42,3 +42,13 @@ border: 5px dashed green;
 padding: 10px; /* padding is the space between border line and borders of image */
 
 }
+table{
+    border: 1px solid red;
+}
+th{
+    background-color: darkblue;
+}
+td{
+    border: 1px solid purple;
+    background-color: darkgray;
+}
