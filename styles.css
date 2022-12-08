@@ -66,3 +66,10 @@ td{
     font-family: courier;
     font-size: 40px
 }
+h7{
+    color:red;
+    font-size: 40px;
+    background-color: black;
+    font-family: cursive;
+    background-position: center;
+}
