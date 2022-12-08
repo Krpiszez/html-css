@@ -53,3 +53,9 @@ td{
     background-color: darkgray;
     color: blue;
 }
+#another-unique-id{
+    color: aqua;
+    background-color: yellow;
+    background-position: center;
+    background-size: 100px;
+}
